@@ -23,4 +23,5 @@ end
 student1 = Student.new("Arber", "Business", 2.6)
 
 Tools.sayhi(student1.name)
+puts "LOL!!!"
 Tools.saybye(student1.name)
